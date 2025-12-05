@@ -105,6 +105,4 @@ Incluye:
 3. El usuario selecciona la operación deseada desde el menú.
 4. Las operaciones actualizan el saldo en tiempo real.
 5. El sistema continúa ejecutándose hasta seleccionar *Salir*.  
-   anexos/imagenes/salir.png)  
-Pantalla mostrada cuando el usuario elige la opción de salir del menú principal.
 
